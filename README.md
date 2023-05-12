@@ -1,9 +1,9 @@
 # Hello, I'm Rahul Saini
 
-# Python Developer | Blockchain Developer | Data Scientist
+### Python Developer | Blockchain Developer | Data Scientist
 Welcome to my GitHub profile! I'm a passionate Python Developer and Blockchain Developer with a strong background in Data Science, Machine Learning, and Data Analysis. I love exploring new technologies and creating innovative solutions to complex problems. Through my projects, I strive to leverage the power of Python and Blockchain to build robust and efficient applications.
 
-Skills
+### Skills
 Programming Languages: Python, Solidity, JavaScript
 Frameworks and Libraries: Flask, Django, NumPy, Pandas, TensorFlow, Keras, Web3.js
 Blockchain Technologies: Ethereum, Smart Contracts, Web3, Truffle
