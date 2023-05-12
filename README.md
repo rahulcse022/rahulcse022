@@ -34,9 +34,14 @@ I believe in the power of open-source collaboration and actively contribute to t
 ## Get in Touch
 I'm always open to collaborating on exciting projects or discussing new ideas. You can reach me through the following channels:
 
+
 Email: rahulcse022@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/rahul-saini-b83610187/
+
 Telegram: @rahulcse022
+
+
 Feel free to explore my repositories to gain insights into my coding style and project work. I look forward to connecting with you!
 
 Happy coding! :computer: :rocket:
